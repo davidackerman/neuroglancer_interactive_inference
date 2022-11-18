@@ -1,5 +1,5 @@
 .vscode/
-
+dask-worker-space/
 *.onnx
 
 # Byte-compiled / optimized / DLL files
